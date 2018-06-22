@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1529657659 source:c:\users\sándor\documents\c++\felkeszules_vizsgara\2\snd\main.cpp
+	<iostream>
+	"saview.h"
+	<algorithm>
+	<numeric>
+	<list>
+	<deque>
+	<string>
+
+1529667662 c:\users\sándor\documents\c++\felkeszules_vizsgara\2\snd\saview.h
+	<array>
+	<vector>
+	<set>
+	<algorithm>
+
